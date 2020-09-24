@@ -1,6 +1,6 @@
-# :wave: [Hello World](https://github.com/Hantasmagoria/repo-practice) :egg:
+# :wave: [pom-o-clock](https://github.com/Hantasmagoria/pom-o-clock) :egg:
 
->Practice repo and prospective sandbox for play-testing new knowledge in the future. Includes templates for future projects. Templates inspired by plenty of sources of unknown origin.
+> I needed a pomodoro clock for studying so I made one lol
 
 ## Table of Contents
 
@@ -13,21 +13,20 @@
 
 ## Installation
 
- This is a practice repo, there will not be any installations.
+This is a practice repo, there will not be any installations.
 
 ## Language support
 
- See [all supported options in the documentation at  `docs/options.md`](docs/options.md).
+See [all supported options in the documentation at `docs/options.md`](docs/options.md).
 
 ## Usage
 
- -Placeholder
+-Placeholder
 
 ## Configuration
 
- -Placeholder
-
+-Placeholder
 
 ## Troubleshooting
 
- See [`docs/troubleshooting.md`](docs/troubleshooting.md).
+See [`docs/troubleshooting.md`](docs/troubleshooting.md).
